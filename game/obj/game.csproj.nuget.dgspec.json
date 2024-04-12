@@ -1,33 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A200002851\\OneDrive - Deutsche Telekom AG\\Projects\\lesson07\\game\\game.csproj": {}
+    "C:\\Users\\cc221011.FH\\Downloads\\CD-Soko\\SokobanGame\\game\\game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A200002851\\OneDrive - Deutsche Telekom AG\\Projects\\lesson07\\game\\game.csproj": {
+    "C:\\Users\\cc221011.FH\\Downloads\\CD-Soko\\SokobanGame\\game\\game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A200002851\\OneDrive - Deutsche Telekom AG\\Projects\\lesson07\\game\\game.csproj",
+        "projectUniqueName": "C:\\Users\\cc221011.FH\\Downloads\\CD-Soko\\SokobanGame\\game\\game.csproj",
         "projectName": "game",
-        "projectPath": "C:\\Users\\A200002851\\OneDrive - Deutsche Telekom AG\\Projects\\lesson07\\game\\game.csproj",
-        "packagesPath": "C:\\Users\\A200002851\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A200002851\\OneDrive - Deutsche Telekom AG\\Projects\\lesson07\\game\\obj\\",
+        "projectPath": "C:\\Users\\cc221011.FH\\Downloads\\CD-Soko\\SokobanGame\\game\\game.csproj",
+        "packagesPath": "C:\\Users\\cc221011.FH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cc221011.FH\\Downloads\\CD-Soko\\SokobanGame\\game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\A200002851\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\cc221011.FH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\A200002851\\OneDrive - Deutsche Telekom AG\\Projects\\lesson07\\libs\\libs.csproj": {
-                "projectPath": "C:\\Users\\A200002851\\OneDrive - Deutsche Telekom AG\\Projects\\lesson07\\libs\\libs.csproj"
+              "C:\\Users\\cc221011.FH\\Downloads\\CD-Soko\\SokobanGame\\libs\\libs.csproj": {
+                "projectPath": "C:\\Users\\cc221011.FH\\Downloads\\CD-Soko\\SokobanGame\\libs\\libs.csproj"
               }
             }
           }
@@ -36,16 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -62,31 +59,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\A200002851\\OneDrive - Deutsche Telekom AG\\Projects\\lesson07\\libs\\libs.csproj": {
+    "C:\\Users\\cc221011.FH\\Downloads\\CD-Soko\\SokobanGame\\libs\\libs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A200002851\\OneDrive - Deutsche Telekom AG\\Projects\\lesson07\\libs\\libs.csproj",
+        "projectUniqueName": "C:\\Users\\cc221011.FH\\Downloads\\CD-Soko\\SokobanGame\\libs\\libs.csproj",
         "projectName": "libs",
-        "projectPath": "C:\\Users\\A200002851\\OneDrive - Deutsche Telekom AG\\Projects\\lesson07\\libs\\libs.csproj",
-        "packagesPath": "C:\\Users\\A200002851\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A200002851\\OneDrive - Deutsche Telekom AG\\Projects\\lesson07\\libs\\obj\\",
+        "projectPath": "C:\\Users\\cc221011.FH\\Downloads\\CD-Soko\\SokobanGame\\libs\\libs.csproj",
+        "packagesPath": "C:\\Users\\cc221011.FH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cc221011.FH\\Downloads\\CD-Soko\\SokobanGame\\libs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\A200002851\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\cc221011.FH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -94,16 +93,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",
@@ -126,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
